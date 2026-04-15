@@ -1,0 +1,16 @@
+{
+  "identifier": "c558b890-fa64-43cf-8db1-b44d6503828b",
+  "version": 1,
+  "type": "http://dataspecer.com/resources/local/visual-model",
+  "entities": [
+    {
+      "identifier": "c558b890-fa64-43cf-8db1-b44d6503828b-model-metadata-entity",
+      "type": [
+        "entity-model-type"
+      ],
+      "label": {
+        "en": "Anonymous model"
+      }
+    }
+  ]
+}
